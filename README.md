@@ -17,15 +17,15 @@
 
 <h2>
   <p align="center" ><b>
-Fellow Developers, a warm welcome to the dart side of this repository!
+Fellow Developers, a warm welcome to the dark side of this repository!
      </p></b>
 </h2>
 
 ## What is Hacktoberfest?
-Hacktoberfest is a month long celebration of open source software by DigitalOcean encouraging anyone to join the community.
+Hacktoberfest is a month-long celebration of open source software by DigitalOcean encouraging anyone to join the community.
 
 ### What is required in Hacktoberfest?
-- Get atleast 4 PRs which are merged and NOT tagged as spam (or you will be taken out of the competition)
+- Get at least 4 PRs that are merged and NOT tagged as spam (or you will be taken out of the competition)
 
 ## Project Maintainer ⚡  :
 
@@ -50,9 +50,9 @@ The goal of this project is to help anyone (of any level) contribute to an open 
 ### Purpose of this project is to implement a playground for developers to practice with Dart and solve Data Structures & Algorithms.
 
 Therefore feel free to contribute if:
-1. you are a beginner, mid or senior level Flutter Developer
+1. you are a beginner, mid or senior-level Flutter, Developer
 2. you are a designer
-3. you will be documentating the code
+3. you will be documenting the code
 4. you will be working on the server side
 
 <h1 align=center> Give a Star if you like the project ⭐ </h1>
